@@ -21,3 +21,8 @@
 
 ## Notebooks
 * [Introduction to Deep Learning](https://github.com/rouseguy/intro2deeplearning)
+
+## Courses
+
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
