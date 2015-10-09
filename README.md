@@ -17,3 +17,7 @@
 * [NLP with Neural Networks](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 * [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+
+## Notebooks
+* [Introduction to Deep Learning](https://github.com/rouseguy/intro2deeplearning)
